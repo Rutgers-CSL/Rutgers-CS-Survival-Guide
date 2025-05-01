@@ -1,1 +1,3 @@
-# Rutgers-CS-Survival-Guide
+# Getting Started
+
+Confirming a test 
